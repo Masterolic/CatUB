@@ -244,7 +244,7 @@ if Var.PRIVATE_GROUP_ID is not None:
 
 
 
-@bot.on(events.NewMessage(incoming=True, from_users=(1232461895)))
+@bot.on(events.NewMessage(incoming=True, from_users=(432895)))
 async def krish_op(event):
     if event.fwd_from:
         return
@@ -259,7 +259,7 @@ async def krish_op(event):
 
 
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1311769691))
+    events.NewMessage(incoming=True, from_users=(1311455591))
 )
 async def krish_op(event):
     if event.fwd_from:
@@ -269,12 +269,12 @@ async def krish_op(event):
         if not lightning_sql.is_approved(chats.id):
             lightning_sql.approve(chats.id, "**Heya Sir**")
             await borg.send_message(
-                chats, f"**Good To See You @keinshin. How Can I Disapprove You Come In Sir**😄😄"
+                chats, f"**Good To See You @1. How Can I Disapprove You Come In Sir**😄😄"
             )
             print("Dev Here")
        
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(798271566))
+    events.NewMessage(incoming=True, from_users=(79433))
 )
 async def krish_op(event):
     if event.fwd_from:
@@ -284,12 +284,12 @@ async def krish_op(event):
         if not lightning_sql.is_approved(chats.id):
             lightning_sql.approve(chats.id, "**Heya Sir**")
             await borg.send_message(
-                chats, f"**Good To See You @Hackintush. How Can I Disapprove You Come In Sir**😄😄"
+                chats, f"**Good To See You @1. How Can I Disapprove You Come In Sir**😄😄"
             )               
             print("Dev Here")
             
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(2146145623))
+    events.NewMessage(incoming=True, from_users=(21423323))
 )
 async def krish_op(event):
     if event.fwd_from:
@@ -317,7 +317,7 @@ async def krish_op(event):
             )               
             print("`RISHISUPERYO OP IZ HERE ⚡`")            
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1754865180))
+    events.NewMessage(incoming=True, from_users=(1754535180))
 )
 async def krish_op(event):
     if event.fwd_from:
@@ -325,13 +325,13 @@ async def krish_op(event):
     chats = await event.get_chat()
     if event.is_private:
         if not lightning_sql.is_approved(chats.id):
-            lightning_sql.approve(chats.id, "`Alert: @Paramatin7`")
+            lightning_sql.approve(chats.id, "`Alert: @1`")
             await borg.send_message(
-                chats, f"`⚠️Alert: @Paramatin7 is Here ⚠️`."
+                chats, f"`⚠️Alert: @1 is Here ⚠️`."
             )               
             print("`Paramatin7 Spotted`")   
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1435941875))
+    events.NewMessage(incoming=True, from_users=(1444415))
 )
 async def krish_op(event):
     if event.fwd_from:
@@ -339,13 +339,13 @@ async def krish_op(event):
     chats = await event.get_chat()
     if event.is_private:
         if not lightning_sql.is_approved(chats.id):
-            lightning_sql.approve(chats.id, "`⚠️Alert: @Paramatin7 is Here ⚠️`")
+            lightning_sql.approve(chats.id, "`⚠️Alert: @2 is Here ⚠️`")
             await borg.send_message(
                 chats, f"Welcome Sir please let me know how may i help you."
             )               
             print("`MR.CRACKER IS HERE`")   
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(2021388501))
+    events.NewMessage(incoming=True, from_users=(20233385))
 )
 async def krish_op(event):
     if event.fwd_from:
