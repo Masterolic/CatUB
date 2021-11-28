@@ -3,7 +3,7 @@
 <br>
 <p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph//file/696de7c31c70db1207977.jpg"></a></p> 
 </p>
-<h1>BLACK LIGHTNING</h1>
+<h1>CatUB</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
@@ -31,12 +31,11 @@
 * [CipherX](https://t.me/CipherXBot)
 * [Hellboi-Danish](https://t.me/Hellboi-Danish)
 
-# Special thanks
-to [Aditya](https://github.com/Paramatin-OP) for maintaining the repository
+# Special
 
 # Support
-<a href="https://t.me/Black_lightning_Channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightning_support_group"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/pc_software_cracked"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/computer_software_cracked"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Total Commands = CMDS Are More Than 470 :D
 # About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
@@ -127,5 +126,5 @@ python3 -m Black-Lightning
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Lightning Bot will not work without setting the mandatory vars.
+[+] The CatUb Bot will not work without setting the mandatory vars.
 ```
