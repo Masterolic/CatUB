@@ -209,7 +209,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                 await LIGHTNING_REVL_MSG[chat_ids].delete()
             LIGHTNING_REVL_MSG[chat_ids] = lemme
             lightn_msg = ""
-            lightn_msg += "#Some Retards 😑\n\n"
+            lightn_msg += "#Some kanjav 😂🙌\n\n"
             lightn_msg += f"[User](tg://user?id={chat_ids}): {chat_ids}\n"
             lightn_msg += f"Message Counts: {LIGHTNING_WRN[chat_ids]}\n"
             # lightn_msg += f"Media: {message_media}"
